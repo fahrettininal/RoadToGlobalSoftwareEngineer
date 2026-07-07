@@ -1,0 +1,7 @@
+print("====================")
+print("     PERSON CARD")
+print("====================")
+print("Name      : Fahrettin")
+print("Surname   : İnal")
+print("Occupation: Programmer")
+print("Goal      : Work abroad")

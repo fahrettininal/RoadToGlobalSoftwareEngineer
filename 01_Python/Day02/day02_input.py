@@ -1,0 +1,13 @@
+name = input("Enter your name:")
+surname = input("Enter your surname:")
+occupation = input("Enter your occupation:")
+goal = input("enter your goal:")
+
+print("===============================")
+print("PERSON CARD")
+print("===============================")
+print("Name :", name)
+print("Surname :", surname)
+print("Occupation :", occupation)
+print("Goal :", goal)
+print("===============================")
